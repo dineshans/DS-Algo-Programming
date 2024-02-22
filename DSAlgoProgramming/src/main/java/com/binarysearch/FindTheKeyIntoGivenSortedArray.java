@@ -1,5 +1,9 @@
 package com.binarysearch;
 
+/*
+* Find the key into Sorted Array
+*
+*/
 public class FindTheKeyIntoGivenSortedArray {
 
     public static void main(String[] args) {
